@@ -1,6 +1,4 @@
-Certainly! A good README file provides clear and concise information about your project, making it easy for others (and your future self) to understand and use the code. Here's a basic template for a README file for your NLP model:
-
-```markdown
+markdown
 # NLP Business Category Classification
 
 This repository contains code for training a simple Natural Language Processing (NLP) model to classify text into different business categories. The model is based on a Naive Bayes classifier using TF-IDF features.
@@ -82,6 +80,3 @@ Feel free to contribute to this project. If you find any issues or have suggesti
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Adjust the content as needed, and make sure to replace placeholders with actual details specific to your project. Additionally, include a `LICENSE` file with the text of the MIT License or another license of your choice.
